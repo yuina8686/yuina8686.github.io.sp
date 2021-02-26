@@ -1,0 +1,67 @@
+@charset "utf-8";
+body {
+    color: black;
+    background-image: url(bg_body.png);
+}
+body p a {
+    text-decoration: none;
+}
+#menu li a {
+    text-decoration: none;
+}
+#ahya {
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+}
+#rink a {
+    text-decoration: none;
+    display: block;
+    width: 240px;
+    height: 35px;
+    background-color: navy;
+    color: #ffffff;
+    text-align: center;
+    padding: 18px 0px 0px 0px;
+    margin: 10px auto;
+}
+#rink a:hover {
+    background-color: blue;
+}
+body p {
+    text-align: center;
+}
+#menu li {
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+#menu {
+    margin: 10px auto;
+    text-decoration: none;
+}
+.twitter-timeline {
+    margin-left: 350px;
+    margin-top: -700px;
+    float: left;
+}
+.icon {
+    width: 150px;
+    list-style-type: none;
+    margin-left: 230px;
+}
+.one {
+    width: 480px;
+    margin-left: 70px;
+}
+.menu {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-right: 750px;
+}
+.mena {
+    text-decoration: none;
+    color: black;
+}

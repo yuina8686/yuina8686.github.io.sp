@@ -1,0 +1,21 @@
+@charset "utf-8";
+body {
+    color: black;
+    background-image: url(bg_body.png);
+}
+#top li a {
+    text-decoration: none;
+    display: block;
+    background-color: navy;
+    width: 180px;
+    height: 35px;
+    color: white;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+#top li {
+    list-style-type: none;
+}
+#top li a:hover {
+    background-color: blue;
+}
